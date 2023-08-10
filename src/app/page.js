@@ -35,7 +35,7 @@ const home = () => {
           the chat.
         </p>
       </div>
-      <div class="u-shape-bottom"></div>
+      <div className="u-shape-bottom"></div>
     </div>
   );
 };
