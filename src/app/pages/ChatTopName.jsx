@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import imgName from "../../public/images/avatar.jpg";
+import imgName from "../../../public/images/avatar.jpg";
 import { AiOutlineEllipsis } from "react-icons/ai";
 
 const ChatTopName = ({ name, status }) => {
