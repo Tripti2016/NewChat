@@ -11,7 +11,7 @@ const home = () => {
   return (
     
     <div className="container">
-      <div class="u-shape-top"></div>
+      <div className="u-shape-top"></div>
 
       <div className="chat-box">
         <div className="chat-box-main">
